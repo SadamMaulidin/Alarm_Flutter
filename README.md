@@ -1,6 +1,12 @@
 # flutter_alarm_clock
 
-A new Flutter application.
+Aplikasi alarm dengan berbagai fitur :
+- timer
+- alarm
+- stopwatch
+- clock
+
+![screenshot](alarm.jpg)
 
 ## Getting Started
 
